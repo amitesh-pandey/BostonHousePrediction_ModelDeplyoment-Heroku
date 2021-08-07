@@ -32,11 +32,12 @@ Section 3: Deplyoment of the model on to the Heroku Framework
 
 There are two main things needed when using Heroku from Deployment :
 1. Creating an account in heroku cloud . https://id.heroku.com/login
-2. install gunicorn using pip commands and create a file name Proce
+2. install gunicorn using pip commands and create a file name Procfile with the codes as mentioned in repository 
        !pip install gunicorn
 3. Manually create the requirements.txt files which helps heroku server to create an environment in cloud with the necessary libraries installed 
 
-
-
+Bellow is the heroku link for your reference 
 
 https://boston-house-prediction.herokuapp.com/submit
+
+Enjoy Learning !!! 
