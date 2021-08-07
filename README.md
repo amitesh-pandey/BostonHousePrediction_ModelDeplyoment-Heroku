@@ -19,3 +19,8 @@ Model is been trained using Linear Regression based Supervised Machine Learning 
 Section 2: Creating a flask web based micro framework :
 
 Creating a new python file named as main.py, where the app is executed on to the following route (path) with two html files . Index.html is used to take the input from the web user and results need to be displayed on to the next web page name submit.html.
+
+Screenshots of results are mentioned below for your reference : 
+
+![1](https://user-images.githubusercontent.com/63364350/128605474-3408ca6c-8ac2-4084-8a2f-cda5598efcd2.PNG)
+![2](https://user-images.githubusercontent.com/63364350/128605484-2cc43b10-aea8-4ac4-b3b8-8b4138624e2f.PNG)
