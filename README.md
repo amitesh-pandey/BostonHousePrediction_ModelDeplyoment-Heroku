@@ -22,5 +22,6 @@ Creating a new python file named as main.py, where the app is executed on to the
 
 Screenshots of results are mentioned below for your reference : 
 
-![1](https://user-images.githubusercontent.com/63364350/128605474-3408ca6c-8ac2-4084-8a2f-cda5598efcd2.PNG)
-![2](https://user-images.githubusercontent.com/63364350/128605484-2cc43b10-aea8-4ac4-b3b8-8b4138624e2f.PNG)
+![1](https://user-images.githubusercontent.com/63364350/128605549-ce47b22d-1254-49d5-af2d-f15bf73d2f1b.PNG)
+![2](https://user-images.githubusercontent.com/63364350/128605555-f3af6e82-c52d-4493-b0a2-bcfd02125c18.PNG)
+
