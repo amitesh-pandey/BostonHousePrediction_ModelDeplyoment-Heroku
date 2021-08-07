@@ -37,7 +37,7 @@ There are two main things needed when using Heroku from Deployment :
 3. Manually create the requirements.txt files which helps heroku server to create an environment in cloud with the necessary libraries installed 
 
 Deploy in the Heroku is successfully achieved 
-![image](https://user-images.githubusercontent.com/63364350/128606034-638d7c44-d526-401e-a0ea-f22bf014580d.png)
+![image](https://user-images.githubusercontent.com/63364350/128606145-5b3bebe6-b12c-4191-8b10-730acd4c9367.png)
 
 Below is the heroku link for your reference 
 
