@@ -36,7 +36,10 @@ There are two main things needed when using Heroku from Deployment :
        !pip install gunicorn
 3. Manually create the requirements.txt files which helps heroku server to create an environment in cloud with the necessary libraries installed 
 
-Bellow is the heroku link for your reference 
+Deploy in the Heroku is successfully achieved 
+![image](https://user-images.githubusercontent.com/63364350/128606034-638d7c44-d526-401e-a0ea-f22bf014580d.png)
+
+Below is the heroku link for your reference 
 
 https://boston-house-prediction.herokuapp.com/
 
