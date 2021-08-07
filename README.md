@@ -38,6 +38,6 @@ There are two main things needed when using Heroku from Deployment :
 
 Bellow is the heroku link for your reference 
 
-https://boston-house-prediction.herokuapp.com/submit
+https://boston-house-prediction.herokuapp.com/
 
 Enjoy Learning !!! 
