@@ -36,6 +36,15 @@ There are two main things needed when using Heroku from Deployment :
        !pip install gunicorn
 3. Manually create the requirements.txt files which helps heroku server to create an environment in cloud with the necessary libraries installed 
 
+***********************************************
+Technolgies Used: 
+
+1. Python - Jupyter Notebook, Pycharm 
+2. Sklearn, Pandas, Numpy 
+3. Flask
+4. Html
+6. Heroku 
+
 Deploy in the Heroku is successfully achieved 
 ![image](https://user-images.githubusercontent.com/63364350/128606145-5b3bebe6-b12c-4191-8b10-730acd4c9367.png)
 
