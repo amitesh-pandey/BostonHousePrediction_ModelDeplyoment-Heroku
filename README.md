@@ -8,7 +8,7 @@ This project is divided in to three main section : <br>
 3. Deplyoment of the model on to the Heroku Framework <br>
 
 ************************************************
-Section 1 : Creating a ML based model: 
+**Section 1 : Creating a ML based model: **  
 Boston House prediction dataset has been loaded from the sklearn dataset folder with the following commands as mentioned below
 
 from sklearn.datasets import load_boston
