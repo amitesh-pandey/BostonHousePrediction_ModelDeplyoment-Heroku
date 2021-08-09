@@ -8,7 +8,7 @@ This project is divided in to three main section : <br>
 3. Deplyoment of the model on to the Heroku Framework <br>
 
 ************************************************
-**Section 1 : Creating a ML based model: **  
+__Section 1 : Creating a ML based model:__  
 Boston House prediction dataset has been loaded from the sklearn dataset folder with the following commands as mentioned below
 
 from sklearn.datasets import load_boston
@@ -18,7 +18,7 @@ bos = pd.DataFrame(boston.data)
 Model is been trained using Linear Regression based Supervised Machine Learning algorithm . The mse rates are calculated accordingly . Model is saved using pickle library and named as final_model.pkl
 
 ***********************************************
-Section 2: Creating a flask web based micro framework :
+__Section 2: Creating a flask web based micro framework :__
 
 Creating a new python file named as main.py, where the app is executed on to the following route (path) with two html files . Index.html is used to take the input from the web user and results need to be displayed on to the next web page name submit.html.
 
@@ -28,7 +28,7 @@ Screenshots of results are mentioned below for your reference :
 ![2](https://user-images.githubusercontent.com/63364350/128605555-f3af6e82-c52d-4493-b0a2-bcfd02125c18.PNG)
 
 ************************************************
-Section 3: Deplyoment of the model on to the Heroku Framework
+__Section 3: Deplyoment of the model on to the Heroku Framework :__
 
 There are two main things needed when using Heroku from Deployment :
 1. Creating an account in heroku cloud . https://id.heroku.com/login
@@ -37,7 +37,7 @@ There are two main things needed when using Heroku from Deployment :
 3. Manually create the requirements.txt files which helps heroku server to create an environment in cloud with the necessary libraries installed 
 
 ***********************************************
-Technolgies Used: 
+__Technolgies Used :__ 
 
 1. Python - Jupyter Notebook, Pycharm 
 2. Sklearn, Pandas, Numpy 
