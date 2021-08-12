@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/63364350/129244132-6ae24172-90e0-4f72-a0a1-cf84fdfc82ad.png)
+![image](https://user-images.githubusercontent.com/63364350/129244229-ef47c00c-737e-45b2-82b2-1b774837d7fd.png)
 
 # BostonHousePrediction_ModelDeplyoment-Heroku
 
