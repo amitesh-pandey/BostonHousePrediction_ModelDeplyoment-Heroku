@@ -14,7 +14,7 @@ __Section 1 : Creating a ML based model:__
 Boston House prediction dataset has been loaded from the sklearn dataset folder with the following commands as mentioned below
 
 from sklearn.datasets import load_boston
-boston = load_boston()
+boston = load_boston()</br>
 bos = pd.DataFrame(boston.data)
 
 Model is been trained using Linear Regression based Supervised Machine Learning algorithm . The mse rates are calculated accordingly . Model is saved using pickle library and named as final_model.pkl
